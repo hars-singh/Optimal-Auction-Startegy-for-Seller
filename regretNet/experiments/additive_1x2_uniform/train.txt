@@ -1,0 +1,15 @@
+2020-01-12 00:24:30,088:WARNING:Issue encountered when serializing trainable_variables.
+Type is unsupported, or the types of the items don't match field type in CollectionDef. Note this is a warning and probably safe to ignore.
+Cannot set tensorflow.VariableDef.trainable to 'w_rgt': 'w_rgt' has type <type 'str'>, but expected one of: (<type 'bool'>, <class 'numbers.Integral'>)
+2020-01-12 00:24:30,104:WARNING:Issue encountered when serializing variables.
+Type is unsupported, or the types of the items don't match field type in CollectionDef. Note this is a warning and probably safe to ignore.
+Cannot set tensorflow.VariableDef.trainable to 'w_rgt': 'w_rgt' has type <type 'str'>, but expected one of: (<type 'bool'>, <class 'numbers.Integral'>)
+2020-01-12 00:24:36,612:WARNING:Issue encountered when serializing trainable_variables.
+Type is unsupported, or the types of the items don't match field type in CollectionDef. Note this is a warning and probably safe to ignore.
+Cannot set tensorflow.VariableDef.trainable to 'w_rgt': 'w_rgt' has type <type 'str'>, but expected one of: (<type 'bool'>, <class 'numbers.Integral'>)
+2020-01-12 00:24:36,625:WARNING:Issue encountered when serializing variables.
+Type is unsupported, or the types of the items don't match field type in CollectionDef. Note this is a warning and probably safe to ignore.
+Cannot set tensorflow.VariableDef.trainable to 'w_rgt': 'w_rgt' has type <type 'str'>, but expected one of: (<type 'bool'>, <class 'numbers.Integral'>)
+2020-01-12 00:30:15,078:INFO:TRAIN-BATCH Iter: 1000, t = 329.7790, Revenue: 0.576488, Regret: 0.006764, Reg_Loss: 0.000023, Lag_Loss: 0.035714, Net_Loss: -0.540752, w_rgt_mean: 5.280001, update_rate: 1.000000
+2020-01-12 03:46:22,650:INFO:VAL-1000, Revenue: 0.581514, Regret: 0.007902, Reg_Loss: 0.000031, Lag_Loss: 0.041724, Net_Loss: -0.539759, w_rgt_mean: 5.280001, update_rate: 1.000000
+2020-01-12 09:26:38,697:INFO:TRAIN-BATCH Iter: 2000, t = 626.2270, Revenue: 0.556820, Regret: 0.005152, Reg_Loss: 0.000013, Lag_Loss: 0.027480, Net_Loss: -0.529326, w_rgt_mean: 5.333617, update_rate: 1.000000
