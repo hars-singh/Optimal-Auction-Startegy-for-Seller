@@ -1,5 +1,6 @@
 # Optimal Auctions through Deep Learning
-Implementation of "Optimal Auctions through Deep Learning" (https://arxiv.org/pdf/1706.03459.pdf)
+A multi-agent system for selling a large number of shares of one stock sequentially
+within a given time frame, taking into consideration the costs arising from market impact and a trader’s risk aversion.
 
 ## Getting Started
 
@@ -131,15 +132,3 @@ Allocation Probabilty plots for **additive\_1x2\_uniform\_416\_47** setting lear
 
 For other allocation probability plots, check-out the ipython notebooks in `regretNet` or `rochetNet` folder.
 
-
-## Reference
-
-Please cite our work if you find our code/paper is useful to your work.
-```
-@article{DFNP19,
-  author    = {Paul D{\"{u}}tting and Zhe Feng and Harikrishna Narasimhan and David C. Parkes and Sai Srivatsa Ravindranath},
-  title     = {Optimal Auctions through Deep Learning},
-  journal   = {arXiv preprint arXiv:1706.03459},
-  year      = {2019},
-}
-```
